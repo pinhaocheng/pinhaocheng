@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @pinhaocheng
-- 👀 I’m interested in Robotics, Neurosience, Quants, many more
 - 📫 How to reach me www.pinhaocheng.com
 
 <!---
